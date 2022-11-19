@@ -1,4 +1,4 @@
-### Hi there 👋
+### I want to be an artificial intelligence developer 👋
 
 <!--
 **featHistamine/feathistamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
