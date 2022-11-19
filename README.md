@@ -1,4 +1,4 @@
-### artificial intelligence developer 👋
+### Artificial intelligence developer 👋
 
 <!--
 **featHistamine/feathistamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/featHistamine/featHistamine?color=red&label=python&logo=python&logoColor=yellow&style=plastic"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/featHistamine/featHistamine?color=yellow&label=Java&logo=java&style=plastic">
+## The language i love is
+<img src = "https://img.shields.io/badge/python-FFCA28?style=flat-square&logo=python&logoColor=pink"/> 
